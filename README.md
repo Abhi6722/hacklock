@@ -7,9 +7,9 @@
 
 hacklock is a bash based script which is officially termux from this tool in just one click you can generate pattern phishing tool which can hack victim pattern and. This tool works on both rooted Android device and Non-rooted Android device.
 
-[![Build Status](https://img.shields.io/github/stars/noob-hackers/m-wiz.svg)](https://github.com/noob-hackers/hacklock)
-[![Build Status](https://img.shields.io/github/forks/noob-hackers/m-wiz.svg)](https://github.com/noob-hackers/hacklock)
-[![License: MIT](https://img.shields.io/github/license/noob-hackers/m-wiz.svg)](https://github.com/noob-hackers/hacklock)
+[![Build Status](https://img.shields.io/github/stars/noob-hackers/m-wiz.svg)](https://github.com/Abhi6722/hacklock)
+[![Build Status](https://img.shields.io/github/forks/noob-hackers/m-wiz.svg)](https://github.com/Abhi6722/hacklock)
+[![License: MIT](https://img.shields.io/github/license/noob-hackers/m-wiz.svg)](https://github.com/Abhi6722/hacklock)
 [![Rawsec's CyberSecurity Inventory](https://inventory.rawsec.ml/img/badges/Rawsec-inventoried-FF5050_flat.svg)](https://inventory.rawsec.ml/tools.html#hacklock)
 [![Stage](https://img.shields.io/badge/Release-Stable-brightgreen.svg)]()
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
@@ -88,30 +88,29 @@ __Exit__ :
 ## 🔗 ***Check this***
 
 ### Subscribe our channel on youtube:
-https://www.youtube.com/noobhackers
+https://www.youtube.com/channel/UCV9qe5io3OCZ8vHMu4gnQZQ
 
 ### Chekout our webite:
-https://www.noob-hackers.com
+https://hackershub.abhi6722.in
+
 
 ## 👥 ***Join***
 
-### Facebook group: 
-https://www.facebook.com/groups/1936478173310085
 
 ### Telegram channel:
-https://t.me/noobhack
+https://t.me/officialhackershub
 
 ### Facebook page:
-https://www.facebook.com/Noob-Hackers-250938565573643
+https://m.facebook.com/Hackers-Hub-103249834703018/?ref=bookmarks
 
 ### Instagram: 
-https://www.instagram.com/noobhackers352
+https://www.instagram.com/official_hackershub
 
 ### Pinterest:
-https://in.pinterest.com/noobhackers
+https://in.pinterest.com/abhinav6722cool/
 
 ### My GitHub ID link:
-https://www.github.com/noob-hackers
+https://www.github.com/Abhi6722
 
 ### 📢 Warning
 
